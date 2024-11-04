@@ -1,0 +1,9 @@
+name: LeadAnyMob
+version: '1.0.0'
+main: xyz.amudev.leadAnyMob.LeadAnyMob
+api-version: '1.21'
+
+permissions:
+  leadanymob.use:
+    description: Allow player to use this plugin.
+    default: true
