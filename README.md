@@ -7,3 +7,6 @@ You will be able to attach leads to all kinds of creatures, such as villagers, z
 - `leadanymob.use`
   - Allow use of this plugin
   - All players have this permission by default
+
+## Discord
+[Support Discord](https://discord.gg/NDpvZZBCZG)
